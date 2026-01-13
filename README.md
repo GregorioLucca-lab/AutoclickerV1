@@ -15,7 +15,7 @@ Le funzionalità principali includono:
 
         Standard: Esegue una sequenza generica di movimento/azione.
 
-    Input Diretto: Utilizza la libreria pydirectinput per simulare la pressione dei tasti a livello di driver, essenziale per far funzionare i comandi all'interno dei videogiochi (dove pyautogui spesso fallisce).
+    Input Diretto: Utilizza la libreria pydirectinput per simulare la pressione dei tasti a livello di driver, essenziale per far funzionare i comandi  (dove pyautogui spesso fallisce).
 
 
 Il codice utilizza diverse librerie esterne che non sono incluse nell'installazione base di Python. Per utilizzare il programma, dovrà aprire il terminale (Prompt dei Comandi o PowerShell) ed eseguire il seguente comando:
