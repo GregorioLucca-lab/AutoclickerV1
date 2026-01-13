@@ -1,0 +1,52 @@
+[
+  {
+    "label": "Rigioca",
+    "area": [
+      711,
+      841,
+      333,
+      215
+    ],
+    "template": "C:/Users/gregorio/Documents/progetti_python/merda/rigioca.png"
+  },
+  {
+    "label": "Sala",
+    "area": [
+      358,
+      291,
+      261,
+      122
+    ],
+    "template": "C:/Users/gregorio/Documents/progetti_python/merda/Sala.png"
+  },
+  {
+    "label": "Ora",
+    "area": [
+      315,
+      245,
+      331,
+      157
+    ],
+    "template": "C:/Users/gregorio/Documents/progetti_python/merda/ora.png"
+  },
+  {
+    "label": "Vuoi",
+    "area": [
+      783,
+      710,
+      360,
+      183
+    ],
+    "template": "C:/Users/gregorio/Documents/progetti_python/merda/Vuoi.png"
+  },
+  {
+    "label": "ingresso",
+    "area": [
+      889,
+      738,
+      219,
+      141
+    ],
+    "template": "C:/Users/gregorio/Downloads/Immagine 2025-11-11 171551.png"
+  }
+]
