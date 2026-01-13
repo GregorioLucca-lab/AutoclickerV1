@@ -1,0 +1,2 @@
+# AutoclickerV1
+Auto
